@@ -1,0 +1,21 @@
+"色
+"colorscheme hybrid
+colorscheme iceberg
+"set background=dark
+
+" ツールバーを非表示
+set guioptions-=T
+
+" 左右のスクロールバーを非表示
+set guioptions-=m
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+
+" 起動時画面サイズ
+set lines=90 columns=100
+
+ " ウインドウを半透明にする
+gui
+set transparency=250
